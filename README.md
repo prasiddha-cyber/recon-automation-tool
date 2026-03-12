@@ -34,6 +34,10 @@ wordlists/
 - subdomains.txt
 
 requirements.txt
+- Python dependencies
+
+README.md
+- Project documentation
 
 ## How To Run
 
